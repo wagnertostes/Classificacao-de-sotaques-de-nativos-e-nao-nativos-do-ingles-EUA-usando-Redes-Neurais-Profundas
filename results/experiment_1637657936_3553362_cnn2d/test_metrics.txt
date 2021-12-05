@@ -1,0 +1,20 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+      arabic       0.37      0.32      0.34        34
+     english       0.63      0.97      0.77        98
+      french       0.00      0.00      0.00        11
+    mandarin       0.17      0.04      0.07        23
+     spanish       0.17      0.06      0.09        32
+
+    accuracy                           0.55       198
+   macro avg       0.27      0.28      0.25       198
+weighted avg       0.42      0.55      0.46       198
+Los:
+1.0659536
+Confusion Matrix:
+11	19	0	0	4	
+1	95	0	0	2	
+1	9	0	1	0	
+10	8	0	1	4	
+7	19	0	4	2	
